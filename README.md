@@ -43,21 +43,28 @@ Voici quelques captures d'écran pour illustrer le processus :
 
 1. **Service Producer KAFKA via un Rest Controller**  
    Un producteur Kafka utilisant un contrôleur REST pour envoyer des messages dans un topic Kafka.
+![Capture d'écran 2](screenshots/img_4.png)
 
 2. **Service Consumer KAFKA**  
    Un consommateur Kafka qui reçoit et affiche les messages envoyés dans un topic Kafka.
+    ![Capture d'écran 2](screenshots/img_5.png)
+   ![Capture d'écran 2](screenshots/img_7.png)
+   ![Capture d'écran 2](screenshots/img_8.png)
+
 
 3. **Service Supplier KAFKA**  
    Un fournisseur Kafka générant périodiquement des messages et les envoyant à un topic Kafka.
+   ![Capture d'écran 2](screenshots/img_6.png)
 
 4. **Service de Data Analytics Real Time Stream Processing**  
    Un service d'analyse en temps réel utilisant Kafka Streams pour traiter les données en continu depuis un topic et les envoyer vers un autre topic.
+   ![Capture d'écran 2](screenshots/img_9.png)
 
 5. **Application Web en Temps Réel**  
    Une application web affichant les résultats de l’analyse des données en temps réel.
 
-![Capture d'écran 2](screenshots/img_4.png)
-![Capture d'écran 2](screenshots/img_5.png)
-![Capture d'écran 2](screenshots/img_6.png)
-![Capture d'écran 2](screenshots/img_7.png)
+
+![Capture d'écran 2](screenshots/img_10.png)
+![Capture d'écran 2](screenshots/img_11.png)
+
 
