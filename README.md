@@ -1,6 +1,7 @@
 # Kafka Spring Cloud Stream Application
 
 Ce projet utilise **Apache Kafka** avec **Spring Cloud Stream** pour démontrer la création d’un système de production et de consommation de messages, ainsi qu’un service d’analyse en temps réel.
+![Capture d'écran 2](screenshots/img_14.png)
 
 ## Prérequis
 Assurez-vous d'avoir installé les outils suivants :
